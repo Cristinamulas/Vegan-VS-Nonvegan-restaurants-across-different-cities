@@ -2,9 +2,9 @@
 
 We obteined data from https://www.yelp.com to investigate the following questions:
 
-- 1.Is there a quality difference between vegan and non-vegan restaurants in NYC ?
-- 2.Are vegan restaurants more popular in different cities?
-- 3.Is the quality of vegan vs. Non-vegan restaurants different across different cities?
+- Question 1: Is there a quality difference between vegan and non-vegan restaurants in NYC ?
+- Question 2: Are vegan restaurants more popular in different cities?
+- Question 3: Is the quality of vegan vs. Non-vegan restaurants different across different cities?
 
 ## Hypotheses
 
